@@ -6,8 +6,10 @@ Add reflection effect in your flash project in no-sweat way!
 
 ## Usage: ##
 
-`filter = new ReflectionFilter(image.height, 50, 0.5, 3);
-image.filters = [filter];`
+```
+filter = new ReflectionFilter(image.height, 50, 0.5, 3);
+image.filters = [filter];
+```
 
 ## Prameters: ##
 - **`imageHeight`**  the height of the original image(we need this because pixelbender kernels cannot get the info of the image)
