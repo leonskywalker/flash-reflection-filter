@@ -1,6 +1,8 @@
 Flash Reflection Filter
 =======================
-The filter will create a reflection of the original image at the bottom.
+Add reflection effect in your flash project in no-sweat way!
+
+![](https://github.com/leonskywalker/flash-reflection-filter/raw/master/preview.jpg)
 
 ## Usage: ##
 
